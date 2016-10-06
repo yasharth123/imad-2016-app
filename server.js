@@ -59,7 +59,7 @@ function createtemplate(data){
 
     
     `;
-    return htmltemplate;
+    return htmlTemplate;
 }
     
 
